@@ -7,17 +7,17 @@ This project uses NodeJS and the Inquirer package to generate a README file for 
 
 - [Usage](#usage)
 - [License](#license)
-- [License](#license)
+- [Contact](#contact)
 
 ## Usage
 
-Run ```index.js``` with the command ```node index.js``` after ```npm init``` within the root directory of ```index.js```. There will be multiple prompts that come up. Fill these prompts to generate a README.
+Run ```index.js``` with the command ```node index.js``` after ```npm init``` within the root directory of ```index.js```. There will be multiple prompts that come up. Fill these prompts to generate ```generated-README.md```.
 ## License
 Copyright © 2021 Andrew Trudeau
 
 Licensed under the [MIT License](LICENSE).
 
-## Questions
+## Contact
 
 If you wish to reach me for questions, please refer to the contact information below:
 
