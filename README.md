@@ -28,3 +28,4 @@ Github Profile: [andrewtrudeau](https://github.com/andrewtrudeau)
 
 Email Me: [andrewtrudeau3@gmail.com](mailto:andrewtrudeau3@gmail.com)
 
+VIDEO LINK [VIDEO LINK](https://www.youtube.com/watch?v=IokIRVr8rG4&feature=youtu.be)
