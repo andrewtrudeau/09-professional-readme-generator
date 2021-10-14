@@ -1,29 +1,28 @@
-# README Generator
+# Tittle
 Copyright © 2021 Andrew Trudeau
 
 ## Description
-This project uses NodeJS to generate a README for Github.
+Description
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [Contact](#contact)
-
+- [License](#license)
 ## Installation
-run 'index.js' with node
+install this 
 ## Usage
-run 'index.js' with node and enter the information you wish to include in your README.
+ussage
 ## License
 Copyright © 2021 Andrew Trudeau
 
 Licensed under the [MIT License](LICENSE).
 
 ## Contribution Guidelines
-n/a
+guidelines
 ## Test Instructions
-n/a
-## Contact
+watch the node video
+## Questions
 
 If you wish to reach me for questions, please refer to the contact information below:
 

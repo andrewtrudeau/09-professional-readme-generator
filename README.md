@@ -1,6 +1,9 @@
 # README Generator ![badmath](https://img.shields.io/badge/-JavaScript-000000?logo=javascript)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+VIDEO LINK [VIDEO LINK](https://www.youtube.com/watch?v=IokIRVr8rG4&feature=youtu.be)
+
+
 ## Description
 This project uses NodeJS and the Inquirer package to generate a README file for a Github repository.
 ## Table of Contents
